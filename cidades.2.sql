@@ -1,0 +1,6 @@
+
+CREATE TABLE cidades_py (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(255) NOT NULL,
+    estado VARCHAR(255) NOT NULL
+);
